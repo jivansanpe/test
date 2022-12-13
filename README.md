@@ -1,12 +1,8 @@
 # Para iniciarlo.
 
 1. Para migrar las tablas a la base de datos:
-
-		```php
-		
+	
 		php artisan migrate
-		
-		```
 
 # Acerca de
 
