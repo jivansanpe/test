@@ -17,5 +17,7 @@ He aquí el modelo relacional resultante:
 
 ![relacional](https://user-images.githubusercontent.com/96262947/207352342-43a56183-c293-43c2-a3a5-649cd57ae9ab.png)
 
+Si se quiere importar manualmente la BBDD, he dejado el archivo del script en una carpeta aparte llamada Database.
+
 
 
