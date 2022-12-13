@@ -4,5 +4,5 @@ La OFGC (Orquesta Filarmónica de Gran Canaria) tiene a nuestra disposición un 
 
 Mi proyecto requiere de tres entidades para ser funcional. La tercera entidad es un registro que nace de la relación de muchos a muchos entre los eventos y los usuarios, tal como muestra el siguiente modelo E-R:
 
+![er_con_fondo_blanco](https://user-images.githubusercontent.com/96262947/207350862-44aceae5-dc2c-4e75-b019-f146aed90240.png)
 
-![er_sin_fondo](https://user-images.githubusercontent.com/96262947/207350664-09d9a8b4-6c1b-4e9f-8451-906f7b0a566d.png)
