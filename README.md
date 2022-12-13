@@ -36,6 +36,46 @@ He aquí el modelo relacional resultante:
 
 ![relacional](https://user-images.githubusercontent.com/96262947/207352342-43a56183-c293-43c2-a3a5-649cd57ae9ab.png)
 
+Evento (atributos que tiene cada evento):
+
+	- id_evento: Clave principal que identifica a cada evento.
+
+	- Nombre: Nombre del evento.
+
+	- Tipo: Tipo del evento.
+
+	- Lugar: Lugar del evento.
+
+	- Fecha: Fecha del evento.
+
+	- Horario: Horario del evento.
+
+	- Imagen: Imagen del evento (puede ser nula).
+	
+	- Director: Director del evento (Está asociado al id de la tabla Director).
+
+Director (atributos que tiene cada director):
+
+	- id_director: Clave principal que identifica a cada director.
+
+	- Apodo: Apodo artístico del director.
+
+	- Imagen: Imagen del director.
+	
+Usuario (atributos que tiene cada usuario):
+
+	- id_usuario: Clave principal que identifica a cada usuario.
+
+	- Alias: Alias del usuario.
+
+	- Foto: Imagen del usuario.
+	
+Registro (atributos que tiene el registro entre Evento y Usuario):
+
+	- fk_evento: Clave foránea que relaciona la tabla Evento.
+	
+	- fk_usuario: Clave foránea que relaciona la tabla Usuario.
+
 Si se quiere importar manualmente la BBDD, he dejado el archivo del script en una carpeta aparte llamada Database.
 
 # Casos de uso.
