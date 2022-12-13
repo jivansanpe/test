@@ -2,7 +2,17 @@
 
 1. Para migrar las tablas a la base de datos:
 	
+		```
 		php artisan migrate
+		
+		```
+		
+2. Para ejecutar el backend:
+
+		```
+		php artisan serve
+		
+		```
 
 # Acerca de
 
