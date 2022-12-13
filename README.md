@@ -80,7 +80,8 @@ Si se quiere importar manualmente la BBDD, he dejado el archivo del script en un
 
 # Casos de uso.
 
-![UseCaseDiagram1](https://user-images.githubusercontent.com/96262947/207384256-216091e0-cc6f-48d4-a1e2-10506c670368.png)
+![image](https://user-images.githubusercontent.com/96262947/207384578-eb77c5c3-138a-4480-9a76-996da03c160c.png)
+
 
 
 
