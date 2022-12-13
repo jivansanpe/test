@@ -38,5 +38,8 @@ He aquí el modelo relacional resultante:
 
 Si se quiere importar manualmente la BBDD, he dejado el archivo del script en una carpeta aparte llamada Database.
 
+# Casos de uso.
+
+![UseCaseDiagram](https://user-images.githubusercontent.com/96262947/207358618-46373610-c380-453b-a17f-2afcac9a089d.png)
 
 
